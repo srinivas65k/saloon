@@ -1,0 +1,16 @@
+.border {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 6px;}
+ .dropdown-menu {
+  display: none;
+}
+.dropdown-menu{
+background-color: #830ec7;
+  display: block;
+}
+.dropdown-item:hover .dropdown-item{
+  display: block;
+  position: absolute;
+}
